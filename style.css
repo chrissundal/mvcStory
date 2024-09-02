@@ -1,0 +1,15 @@
+.column {
+    display: grid;
+    grid-template-columns: repeat(4, 100px);
+    margin: 50px;
+    
+}
+button{
+    width: 70px;
+    height: 70px;
+    margin: 10px;
+}
+.show {
+    width: 100px;
+    width: 100px;
+}
